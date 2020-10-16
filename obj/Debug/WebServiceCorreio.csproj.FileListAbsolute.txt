@@ -1,0 +1,6 @@
+D:\Projetos\ConsumindoAPICorreio\WebServiceCorreio\bin\Debug\WebServiceCorreio.exe.config
+D:\Projetos\ConsumindoAPICorreio\WebServiceCorreio\bin\Debug\WebServiceCorreio.exe
+D:\Projetos\ConsumindoAPICorreio\WebServiceCorreio\bin\Debug\WebServiceCorreio.pdb
+D:\Projetos\ConsumindoAPICorreio\WebServiceCorreio\obj\Debug\WebServiceCorreio.csprojAssemblyReference.cache
+D:\Projetos\ConsumindoAPICorreio\WebServiceCorreio\obj\Debug\WebServiceCorreio.exe
+D:\Projetos\ConsumindoAPICorreio\WebServiceCorreio\obj\Debug\WebServiceCorreio.pdb
